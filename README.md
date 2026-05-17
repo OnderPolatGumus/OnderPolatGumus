@@ -39,9 +39,9 @@ Elektronik • PCB Tasarımı • Embedded Systems
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onderpolatgumus&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnderPolatGumus&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onderpolatgumus&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnderPolatGumus&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
